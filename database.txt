@@ -1,0 +1,6 @@
+Total Amount
+500
+Amount I can spend
+477.0
+Amount I have spent:
+23.0
