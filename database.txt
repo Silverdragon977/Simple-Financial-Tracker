@@ -1,5 +1,6 @@
-Total Amount
+Total Amount:
 500
+Amount I can spend:
 500
 Amount I have spent:
 0
